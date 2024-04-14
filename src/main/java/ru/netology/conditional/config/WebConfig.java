@@ -20,4 +20,5 @@ public class WebConfig {
     public SystemProfile prodProfile() {
         return new ProductionProfile();
     }
+
 }
